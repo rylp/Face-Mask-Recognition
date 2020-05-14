@@ -46,6 +46,14 @@ Training Accuracy : **98.60%**
 Validation Accuracy : **98.30%**
 
 ![](P2.Mask_Recognition/final_outputs/correct/output1.png)
+![](P2.Mask_Recognition/final_outputs/correct/outputs2.png)
+![](P2.Mask_Recognition/final_outputs/correct/outputs11.png)
+
+---
+
+![](P2.Mask_Recognition/final_outputs/correct/outputs3.png)
+![](P2.Mask_Recognition/final_outputs/correct/outputs6.png)
+![](P2.Mask_Recognition/final_outputs/correct/outputs7.png)
 
 ## Contributors
 -Rohan Limaye: https://github.com/rylp </br>
