@@ -45,9 +45,7 @@ Used OpenCV for creating montages of the output and creating the blob for Face D
 Training Accuracy : **98.60%**
 Validation Accuracy : **98.30%**
 
-![](P2.Mask_Recognition/final_outputs/correct/output1.png)
-![](P2.Mask_Recognition/final_outputs/correct/outputs12.png)
-![](P2.Mask_Recognition/final_outputs/correct/outputs11.png)
+![](P2.Mask_Recognition/final_outputs/montage/monatge3.png)
 
 ---
 
