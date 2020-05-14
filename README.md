@@ -29,8 +29,7 @@ Trained with a learning rate of 0.01,Batch Size of 32 and with 20 to 40 epochs.
 Used Adam optimizer with decay as the division of learning rate by the number of epochs
 Used OpenCV for creating montages of the output and creating the blob for Face Detection.
 
-![With 75 epochs](accuracy_loss_tradeoff_graphs/100epochs.png)
-![With 100 epochs](accuracy_loss_tradeoff_graphs/75epochs.png)
+![With 20 epochs](P2.Mask_Recognition/loss_accuracy_tradeoff/val_loss_20epochs.png)
 
 ## Libraries Used
 1.OpenCV</br>
