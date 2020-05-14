@@ -23,7 +23,7 @@ MobileNet V2 along with some incremental modifications :
 Trained with a learning rate of 0.01,Batch Size of 32 and with 20 to 40 epochs.
 Used Adam optimizer with decay as the division of learning rate by the number of epochs
 Used OpenCV for creating montages of the output and creating the blob for Face Detection.
-Used Data Augmentation
+Used Tensorflow's `ImageDataGenerator` feature for Data Augmentation for better results.
 
 ![With 20 epochs](P2.Mask_Recognition/loss_accuracy_tradeoff/val_loss3.png)
 
