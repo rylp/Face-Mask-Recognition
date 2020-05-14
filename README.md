@@ -29,7 +29,7 @@ Used Data Augmentation
 
 ## Libraries Used
 1.OpenCV</br>
-2.Tensorflow/Keras</br>
+2.Tensorflow</br>
 3.Numpy</br>
 4.Seaborn</br>
 5.Matplotlib</br>
