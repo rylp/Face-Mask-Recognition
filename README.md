@@ -42,6 +42,7 @@ Training Accuracy : **99.60%**
 Validation Accuracy : **99.20%**
 
 ---
+<video src="MaskDetector.mp4" width="320" height="200" controls preload></video>
 
 ![](P2.Mask_Recognition/final_outputs/correct/outputs3.png)
 ![](P2.Mask_Recognition/final_outputs/correct/outputs11.png)
