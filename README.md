@@ -2,7 +2,7 @@
 
 ## Overview
 
-An end-to-end Face Mask Recognition model was designed using Tensorflow ,OpenCV that detects faces in an image and recognizes whether the person is wearing a Face-Mask or not. We used the pre-trained Caffe Model provided in the `dnn` module in OpenCV for Face Detection and MobileNet V2 CNN model with some modifications for training. We achieved a 99.60% accuracy on the training set and a 99.20% accuracy on the test set. 
+An end-to-end video-based Face Mask Recognition model was designed using Tensorflow ,OpenCV that detects faces in an image and recognizes whether the person is wearing a Face-Mask or not. We used the pre-trained Caffe Model provided in the `dnn` module in OpenCV for Face Detection and MobileNet V2 CNN model with some modifications for training. We achieved a 99.60% accuracy on the training set and a 99.20% accuracy on the test set. 
 
 * The prime objective of training this particular model was the current impact of COVID-19 on public health and the importance of the usage of Face-Masks in times of come. 
 
